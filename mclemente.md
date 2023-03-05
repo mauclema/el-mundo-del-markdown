@@ -20,3 +20,7 @@
 |pwd|print current working directory|
 
 > http://localhost:8080/mclemente/index.html
+
+# CAMBIOS NUEVA VERSIÓN
+Git add
+g commit
